@@ -32,16 +32,11 @@ NumPy (if you're using it for any processing)
 
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install opencv-python mediapipe numpy
 🚀 Getting Started
 Clone the repo:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/yourusername/thumbs-gesture-recognition.git
 cd thumbs-gesture-recognition
 Run the program:
@@ -53,9 +48,7 @@ python thumbs_detector.py
 Wave your hand in front of the camera and try a 👍 or 👎!
 
 📁 File Structure
-bash
-Copy
-Edit
+
 ├── thumbs_detector.py   # Main script
 ├── README.md            # Project documentation
 └── requirements.txt     # Python dependencies
